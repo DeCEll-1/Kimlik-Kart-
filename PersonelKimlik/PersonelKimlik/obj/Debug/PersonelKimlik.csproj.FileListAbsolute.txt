@@ -1,0 +1,11 @@
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\bin\Debug\PersonelKimlik.exe.config
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\bin\Debug\PersonelKimlik.exe
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\bin\Debug\PersonelKimlik.pdb
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.csproj.AssemblyReference.cache
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.csproj.SuggestedBindingRedirects.cache
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.Form1.resources
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.Properties.Resources.resources
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.csproj.GenerateResource.cache
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.exe
+C:\Users\toshiba\source\repos\PersonelKimlik\PersonelKimlik\obj\Debug\PersonelKimlik.pdb
